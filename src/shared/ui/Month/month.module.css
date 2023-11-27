@@ -1,0 +1,15 @@
+.day{
+    display: grid;
+    align-items: center;
+    position: relative;
+}
+.month{
+    position: absolute;
+    top: -20px;
+    text-align: center;
+    width: 100%;
+}
+.row{
+    display: flex;
+    column-gap: 5px;
+}

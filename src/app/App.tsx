@@ -1,11 +1,8 @@
-import '../App.css'
+import {Contribution} from "../widgets/Contribution";
 
 function App() {
-  return (
-    <>
+    return <Contribution/>
 
-    </>
-  )
 }
 
 export default App
